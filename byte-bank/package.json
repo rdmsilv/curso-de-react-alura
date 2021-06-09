@@ -12,5 +12,6 @@
   },
   "author": "Rudimar Silva",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "keywords": []
 }
